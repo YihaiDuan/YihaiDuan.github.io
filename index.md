@@ -1,4 +1,4 @@
-## 欢迎来到深海哈哈哈的个人主页
+## DuanYihai（段义海）
 
 You can use the [editor on GitHub](https://github.com/YihaiDuan/YihaiDuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
