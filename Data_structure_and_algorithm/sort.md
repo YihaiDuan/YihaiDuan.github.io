@@ -9,7 +9,7 @@
 
 ### 插入排序
 
-```
+```python
 def insertion_sort(arr):
     for i in range(1, len(arr)):
         idx = i - 1
@@ -23,7 +23,7 @@ def insertion_sort(arr):
 ```
 
 ### 快速排序
-```
+```python
 def quick_sort(arr):
     if len(arr) < 2:
         return arr
@@ -35,7 +35,7 @@ def quick_sort(arr):
 ```
 
 ### 选择排序
-```
+```python
 def selection_sort(arr):
     for i in range(len(arr) - 1):
         idx = i
@@ -46,7 +46,7 @@ def selection_sort(arr):
     return arr
 ```
 ### 冒泡排序
-```
+```python
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n - 1):
@@ -56,7 +56,7 @@ def bubble_sort(arr):
     return arr
 ```
 ### 归并排序
-```
+```python
 def merge_sort(arr):
     if len(arr) < 2:
         return arr
@@ -70,7 +70,7 @@ def merge_sort(arr):
     return merged
 ```
 ### 堆排序
-```
+```python
 def heap_tree(arr, i, n):
     large = i
     l = 2 * i + 1
@@ -94,7 +94,7 @@ def heap_sort(arr):
     return arr
 ```
 ### 希尔排序
-```
+```python
 def shell_sort(arr):
     gap = len(arr) // 2
     while gap > 0:
@@ -109,7 +109,7 @@ def shell_sort(arr):
     return arr
 ```
 ### 主函数测试
-```
+```python
 def main():
     arr = [1, 4, 5, 2, 41, 4, 24, 5, 100]
     print("Original arr:      ", arr)
