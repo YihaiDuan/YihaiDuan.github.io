@@ -1,12 +1,13 @@
 ## DuanYihai（段义海）
 
-You can use the [editor on GitHub](https://github.com/YihaiDuan/YihaiDuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+目前就读于天津大学国际工程师学院计算机技术专业，研究方向是深度强化学习。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 强化学习
+- [强化学习从入门到放弃的资料 by wwxFromTju](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
 
-### Markdown
+### 数据结构和算法
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [八大排序算法(Python)](YihaiDuan.github.io/sort.html)
 
 ```markdown
 Syntax highlighted code block
