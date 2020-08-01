@@ -10,8 +10,8 @@
 - [八大排序算法(Python)](YihaiDuan.github.io/Data_structure_and_algorithm/sort.html)
 
 ### 实习相关
-2018.01-2018.08 中国汽车技术研究中心 深度学习算法工程师(实习)
-2020.06-今 中国科学院深圳先进技术研究院(客座学生)
+- 2018.01-2018.08 中国汽车技术研究中心 深度学习算法工程师(实习)
+- 2020.06-今 中国科学院深圳先进技术研究院(客座学生)
 
 ```markdown
 Syntax highlighted code block
