@@ -7,7 +7,7 @@
 
 ### 数据结构和算法
 
-- [八大排序算法(Python)](YihaiDuan.github.io/sort.html)
+- [八大排序算法(Python)](YihaiDuan.github.io/Data_structure_and_algorithm/sort.html)
 
 ```markdown
 Syntax highlighted code block
