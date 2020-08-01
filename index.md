@@ -15,6 +15,7 @@
 - [周博磊老师课程](https://space.bilibili.com/511221970/channel/detail?cid=105354)
 
 ### 机器学习相关
+- [林轩田老师课程](https://www.bilibili.com/video/BV1Cx411i7op?from=search&seid=15396297331490196079)
 
 ### 实习相关
 - 2018.01-2018.08 中国汽车技术研究中心 深度学习算法工程师  (实习)
