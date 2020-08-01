@@ -7,28 +7,16 @@
 
 ### 数据结构和算法
 
-- [八大排序算法(Python)](YihaiDuan.github.io/Data_structure_and_algorithm/sort.html)
+- [常见排序算法(Python)](YihaiDuan.github.io/Data_structure_and_algorithm/sort.html)
+
+### 2021秋招面试
+- 滴滴面经（待完善）
+- 微博面经（待完善）
 
 ### 实习相关
 - 2018.01-2018.08 中国汽车技术研究中心 深度学习算法工程师  (实习)
 - 2020.06-今 中国科学院深圳先进技术研究院  (客座学生)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### 其他链接
-- [csdn个人主页](https://me.csdn.net/greyduan)
+- [CSDN个人主页](https://me.csdn.net/greyduan)
