@@ -130,3 +130,5 @@ def main():
     # print("After heap sort: ", heap_sort_arr)
     print("After shell sort: ", shell_sort_arr)
   ```
+
+  部分代码参考[菜鸟教程](https://www.runoob.com/python3/python3-examples.html)。
