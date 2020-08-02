@@ -99,7 +99,7 @@ author:
   location         : "现居深圳"
   email            : "duanyihai@tju.edu.cn"
   links:
-    - label: "Email"
+    - label: "duanyihai@tju.edu.cn"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:duanyihai@tju.edu.com"
     - label: "Website"
