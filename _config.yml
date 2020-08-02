@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Yihai Duan"
+  avatar           : "/assets/img/digit.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "段义海，目前就读于天津大学国际工程师学院"
+  location         : "现居深圳，曾居住于保定、天津"
+  email            :  duanyihai@tju.edu.cn
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
