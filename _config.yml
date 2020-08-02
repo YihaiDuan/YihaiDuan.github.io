@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Yihai Duan"
   avatar           : "/assets/img/digit.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "段义海，目前就读于天津大学国际工程师学院"
-  location         : "现居深圳，曾居住于保定、天津"
-  email            :  duanyihai@tju.edu.cn
+  bio              : "段义海，目前就读于天津大学"
+  location         : "现居深圳"
+  email            : "duanyihai@tju.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:duanyihai@tju.edu.com"
+      # url: "mailto:duanyihai@tju.edu.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
